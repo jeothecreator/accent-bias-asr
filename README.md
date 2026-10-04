@@ -113,6 +113,26 @@ in a fixed shuffled order so a partial run still covers every group.
 clip × model: `clip_id, accent_group, speaker, model, reference, prediction, reference_norm,
 prediction_norm, wer, substitutions, deletions, insertions, ref_words`.
 
+## Phase 4: analysis and charts
+
+```bash
+.venv/bin/python src/analyze.py
+```
+
+Reads `results/results.csv` and writes:
+
+- [`results/PHASE4_SUMMARY.md`](results/PHASE4_SUMMARY.md): every table, draft key findings, and the charts on one page
+- `results/wer_by_group_model.csv`: pooled WER per group × model, with 95% CIs
+- `results/gap_by_model.csv`: best-vs-worst gap, worst ÷ best, and other ÷ inner ratio per model, with CIs
+- `results/group_vs_us.csv`: each group minus the US group, with CIs
+- `results/worst_clips_to_tag.csv`: the 50 clips large-v3 got most wrong, to listen to and tag
+- `results/figures/`: Figure 1 (WER by group, large-v3), 1b (every model), 2 (gap vs model size),
+  3 (WER vs model size per group, log scale)
+
+**Confidence intervals** use a speaker-level bootstrap (1,000 resamples): within each group, speakers
+are resampled with replacement, keeping all of each chosen speaker's clips. Resampling clips instead
+would treat two clips from the same person as independent and make the intervals too narrow.
+
 ### Tests
 
 ```bash

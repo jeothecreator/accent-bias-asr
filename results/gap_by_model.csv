@@ -1,0 +1,8 @@
+model,params_m,best_group,best_wer,worst_group,worst_wer,gap_pp,gap_ci_low,gap_ci_high,ratio,ratio_ci_low,ratio_ci_high,inner_wer,other_wer,tier_ratio,tier_ratio_ci_low,tier_ratio_ci_high
+tiny,39,canada,7.552,southeast_asia,23.216,15.664,13.239,18.838,3.074,2.568,3.969,9.808,20.731,2.114,1.91,2.344
+base,74,canada,5.215,southeast_asia,16.128,10.913,9.395,13.619,3.093,2.582,4.132,6.381,15.039,2.357,2.091,2.651
+small,244,canada,3.106,southeast_asia,10.493,7.387,6.421,9.902,3.378,2.806,4.833,3.914,9.838,2.514,2.183,2.925
+medium,769,canada,1.881,southeast_asia,7.764,5.883,4.977,7.349,4.128,3.302,6.049,2.454,6.96,2.836,2.384,3.378
+large-v3,1550,canada,1.368,southeast_asia,6.236,4.868,4.132,6.233,4.559,3.415,7.567,2.036,5.582,2.742,2.287,3.353
+turbo,809,canada,1.51,southern_africa,7.477,5.966,5.065,7.795,4.95,3.743,7.963,2.186,6.701,3.065,2.58,3.694
+wav2vec2,317,us,5.219,southeast_asia,17.105,11.886,10.034,14.104,3.278,2.745,4.178,6.121,15.071,2.462,2.172,2.766
