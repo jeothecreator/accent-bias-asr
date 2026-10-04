@@ -87,6 +87,32 @@ unpack everything. Upload `data/audio_subset.zip` (about 3,200 clips) to Google 
 Because of step 4, each group is spread over as many different speakers as it has, and groups read
 the same sentences wherever possible.
 
+## Phase 3: transcribe and score
+
+Transcription needs a GPU, so it runs in Google Colab.
+
+1. Pack the audio, clip list and scripts into one file:
+   ```bash
+   .venv/bin/python src/make_colab_bundle.py
+   ```
+2. Upload `colab_bundle.zip` to a Google Drive folder named `accent-bias-asr`.
+3. Open [`notebooks/03_transcribe.ipynb`](notebooks/03_transcribe.ipynb) in Colab (File → Upload notebook),
+   switch the runtime to a T4 GPU, and run the cells in order: tiny first (check it by hand), then base,
+   small, medium, large-v3, turbo, and optionally wav2vec 2.0.
+4. Download `My Drive/accent-bias-asr/results/results.csv` into `results/`.
+
+**Disconnects are fine.** Each transcript is written to Drive as soon as it's done. Re-run the setup cells
+and the same model cell, and finished clips are skipped.
+
+**Decoding settings, the same for every Whisper model:** language forced to English, beam size 5 with
+temperature fallback (the Whisper paper's settings), and a fixed random seed per clip. Clips are processed
+in a fixed shuffled order so a partial run still covers every group.
+
+**Scoring** ([`src/score.py`](src/score.py)): the reference and prediction both go through Whisper's
+`EnglishTextNormalizer`, then jiwer computes WER per clip. `results/results.csv` has one row per
+clip × model: `clip_id, accent_group, speaker, model, reference, prediction, reference_norm,
+prediction_norm, wer, substitutions, deletions, insertions, ref_words`.
+
 ### Tests
 
 ```bash

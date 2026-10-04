@@ -1,3 +1,6 @@
 pandas>=2.0
 numpy>=1.24
 pytest>=8.0
+# Phase 3 (transcription + scoring)
+openai-whisper>=20250625
+jiwer>=4.0
