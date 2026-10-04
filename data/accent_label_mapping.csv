@@ -1,0 +1,870 @@
+raw_label,clips,speakers,status,group
+,864801,65744,blank,
+United States English,461166,9085,grouped,us
+England English,163655,2732,grouped,england
+"India and South Asia (India, Pakistan, Sri Lanka)",113112,2459,grouped,south_asia
+Canadian English,78348,1032,grouped,canada
+Australian English,56528,804,grouped,australia_nz
+Non native speaker|German English,53295,1,grouped,l2_european
+"Southern African (South Africa, Zimbabwe, Namibia)",26964,348,grouped,southern_africa
+Scottish English,20688,211,excluded,
+New Zealand English,15984,191,grouped,australia_nz
+Northern Irish,10546,4,excluded,
+Irish English,9619,220,excluded,
+Filipino,5818,146,grouped,southeast_asia
+Hong Kong English,4777,148,excluded,
+Singaporean English,3800,88,grouped,southeast_asia
+United States English|England English,3208,61,conflict,
+England English|New Zealand English,2652,6,conflict,
+England English|Liverpool English|Lancashire English,2628,1,grouped,england
+Malaysian English,2610,116,grouped,southeast_asia
+Welsh English,2193,86,excluded,
+United States English|Midwestern|Low|Demure,1511,1,unmapped,
+United States English|Transatlantic English,1303,1,unmapped,
+United States English|Scandinavian,1128,1,conflict,
+"Southern African (South Africa, Zimbabwe, Namibia)|South African accent",1059,1,grouped,southern_africa
+"United States English|India and South Asia (India, Pakistan, Sri Lanka)",926,21,conflict,
+"West Indies and Bermuda (Bahamas, Bermuda, Jamaica, Trinidad)",875,57,excluded,
+United States English|southern United States,551,3,grouped,us
+United States English|Canadian English,527,20,conflict,
+Nepali,416,2,grouped,south_asia
+England English|Academic southern English,416,1,grouped,england
+United States English|Minnesotan,383,3,grouped,us
+United States English|southern United States|New Orleans dialect,374,1,grouped,us
+United States English|Midwestern|Minnesotan,360,1,grouped,us
+East African Khoja,356,1,excluded,
+Northern Irish|culchie,345,1,excluded,
+polish,344,5,grouped,l2_european
+England English|Well spoken softly spoken Home Counties gay|gay male|softly spoken male|well spoken male,313,1,unmapped,
+German,301,23,grouped,l2_european
+United States English|Unite States Midwest,280,1,grouped,us
+"Southern African (South Africa, Zimbabwe, Namibia)|My accent is influenced by the phones of all letters within a sentence.",280,1,unmapped,
+nigerian accent,275,2,excluded,
+United States English|Southwestern United States English,263,1,grouped,us
+United States English|Filipino,251,11,conflict,
+England English|Canadian English,248,1,conflict,
+England English|Northern England,246,3,grouped,england
+United States English|Midwestern USA,213,1,grouped,us
+United States English|Midwestern,213,7,grouped,us
+Dutch English,207,5,grouped,l2_european
+"South Atlantic (Falkland Islands, Saint Helena)",203,5,excluded,
+Slavic|polish,191,1,grouped,l2_european
+Dutch,189,7,grouped,l2_european
+England English|south German / Swiss accent,186,1,conflict,
+German English,184,20,grouped,l2_european
+Northumbrian British English,171,1,excluded,
+South Indian,169,3,grouped,south_asia
+nigeria english,167,2,excluded,
+United States English|CARIBBEAN AND BRITISH MIXED WITH SOME NEW YORK ACCENTS,167,1,excluded,
+United States English|Midwestern United States English,166,3,grouped,us
+french accent,162,8,grouped,l2_european
+Eastern European English,161,3,grouped,l2_european
+England English|South London,159,1,grouped,england
+"United States English|Mid-Atlantic United States English|Philadelphia, Pennsylvania, United States English|Philadelphia Style United States English",156,1,grouped,us
+French,151,16,grouped,l2_european
+Thai,150,2,excluded,
+United States English|Australian English|England English|New Zealand English|Welsh English|Mixed-Accent English,149,1,excluded,
+Austrian,146,3,grouped,l2_european
+Canadian English|Ontario,139,1,grouped,canada
+United States English|Boston|Like a Kennedy,139,1,unmapped,
+England English|yorkshire,136,4,grouped,england
+England English|Welsh English,132,2,excluded,
+United States English|Southern Californian,124,1,grouped,us
+Bangladeshi English,117,1,grouped,south_asia
+"India and South Asia (India, Pakistan, Sri Lanka)|Singaporean English",113,2,conflict,
+European|German|Non-native|Foreign,112,1,grouped,l2_european
+Slavic|polish|East European,111,1,grouped,l2_european
+United States English|Speech impediment|Rhotacism,109,2,excluded,
+"England English|India and South Asia (India, Pakistan, Sri Lanka)",109,11,conflict,
+Bulgarian,107,1,grouped,l2_european
+Mix of american and british accent,105,1,excluded,
+United States English|Slight lisp,105,1,excluded,
+Russian|Slavic,99,1,grouped,l2_european
+United States English|Pacific Northwest,96,1,grouped,us
+"United States English|United States, west coast English",96,1,grouped,us
+Non-native|Spanish|Foreign,95,1,grouped,l2_european
+"India and South Asia (India, Pakistan, Sri Lanka)|try to maintain originality",94,1,unmapped,
+Slavic,93,4,grouped,l2_european
+Italian,92,4,grouped,l2_european
+United States English|South Texas|Slightly effeminate|Conversational,92,1,unmapped,
+England West County,88,1,grouped,england
+England English|Northern English,86,1,grouped,england
+Russian,85,12,grouped,l2_european
+United States English|Texas,83,2,grouped,us
+United States English|Upstate New York,82,2,grouped,us
+United States English|Southern Ohio English,82,1,grouped,us
+England English|German English,78,1,conflict,
+United States English|New York English,78,3,grouped,us
+Israeli,78,2,unmapped,
+Croatian English,76,2,grouped,l2_european
+German|south-west German|South German accent|Alemannic German Accent,74,1,grouped,l2_european
+United States English|Midwestern US English (United States),72,1,grouped,us
+"United States English|England English|India and South Asia (India, Pakistan, Sri Lanka)",72,10,conflict,
+United States English|England English|Transatlantic English,68,1,unmapped,
+Northern Irish|Norwegian|yorkshire,67,1,excluded,
+British English / Received Pronunciation (RP),65,1,excluded,
+Israeli English,64,2,unmapped,
+United States English|England English|Brazilian Accent|EFL,63,1,excluded,
+Ukrainian,63,4,grouped,l2_european
+General American with Southern (Low Country) Influences.,63,1,grouped,us
+United States English|Washington State,60,1,unmapped,
+Indonesian,59,3,unmapped,
+New Jerseyan,58,1,grouped,us
+french accent|French mid level accent,58,1,grouped,l2_european
+United States English|England English|Canadian English,57,1,conflict,
+United States English|little latino|second language,54,1,unmapped,
+United States English|New Yorker,54,1,grouped,us
+strong Latvian accent,53,1,grouped,l2_european
+"United States English|Some time spent in Scotland, mostly affecting inflection, I think",53,1,excluded,
+United States English|Californian Accent,53,1,grouped,us
+United States English|California|Valley,53,1,unmapped,
+Latvian,51,1,grouped,l2_european
+United States English|Central American,51,1,excluded,
+England English|British,51,2,excluded,
+"England English|Southern African (South Africa, Zimbabwe, Namibia)",51,6,conflict,
+United States English|Australian English,51,11,conflict,
+"England English|femalepublic school accent, quiet and under articualted finals",50,1,unmapped,
+England English|Malaysian English,49,1,conflict,
+England English|male|southern UK,49,2,excluded,
+Kazakhstan English,49,1,unmapped,
+United States English|Midwestern States (Michigan),48,1,grouped,us
+United States English|Gay,48,2,unmapped,
+Kenyan English accent,47,1,excluded,
+United States English|England English|Mid-atlantic,46,1,unmapped,
+England English|Midatlantic,46,1,unmapped,
+"India and South Asia (India, Pakistan, Sri Lanka)|International Indian Accent",45,1,grouped,south_asia
+Romanian|Eastern European,45,1,grouped,l2_european
+Thai English,44,3,excluded,
+england|london|academic,44,1,unmapped,
+England English|Scottish English,44,4,excluded,
+European,43,1,grouped,l2_european
+United States English|Asian-American English,42,1,grouped,us
+"England English|India and South Asia (India, Pakistan, Sri Lanka)|Nepalese",42,2,conflict,
+United States English|England English|Irish English|Scottish English|Danish English,42,1,excluded,
+British accent,41,1,excluded,
+South African English Accent,41,2,grouped,southern_africa
+Indonesian English,40,1,unmapped,
+Nigerian English,40,5,excluded,
+Southern drawl,39,1,unmapped,
+minor french accent,38,1,grouped,l2_european
+Japanese English,38,3,excluded,
+German Accent,36,6,grouped,l2_european
+Vietnam,36,1,excluded,
+United States English|Southern Californian English,35,2,grouped,us
+United States English|Northeastern Accent,34,1,unmapped,
+England English|Southern England English with a subtle hint of Irish English.,33,1,excluded,
+Latin English,32,1,unmapped,
+United States English|Mid-west United States English,32,1,grouped,us
+South African  English accent,31,1,grouped,southern_africa
+South Australia,31,1,grouped,australia_nz
+United States English|Mid-atlantic,31,1,unmapped,
+General American English|Southern U.S. English|Alabama English,31,1,grouped,us
+United States English|American english with austrian accent,31,1,grouped,us
+2nd Language,30,1,unmapped,
+With heavy Cantonese accent,30,1,unmapped,
+"United States English|Spoke Chinese when little|90% Pennsylvanian accent, 10% Chinese accent",30,1,excluded,
+"India and South Asia (India, Pakistan, Sri Lanka)|bangladesh",30,4,grouped,south_asia
+Hispanic,30,1,unmapped,
+United States English|southern midwest hippie english|grateful deadhead,29,1,unmapped,
+United States English|California English|Southern US English,28,1,grouped,us
+England English|Singaporean English,27,3,conflict,
+England English|South London and Essex,27,1,grouped,england
+Chinese English,26,1,excluded,
+United States English|North Indiana,26,1,conflict,
+United States English|England English|English with Polish accent|Slavic English,26,1,conflict,
+European English,26,1,grouped,l2_european
+"Born in West Germany in 1966, lived in Toronto, Ontario from 1985 to 2004, now in Central America.",26,2,excluded,
+American South East Georgia Dialect,26,1,grouped,us
+"Canadian English|India and South Asia (India, Pakistan, Sri Lanka)",26,2,conflict,
+"southeastern U.S. with some Mississippi, Virginia, Rhode Island, and coastal South",25,1,grouped,us
+United States English|Russian,25,3,conflict,
+United States English|Slight Dutch accent,24,2,conflict,
+"United States English|Delaware Valley, Pennsylvania",24,1,grouped,us
+"United States English|England English|Scottish English|West Indies and Bermuda (Bahamas, Bermuda, Jamaica, Trinidad)",24,1,excluded,
+United States English|Upper Midwestern,24,1,grouped,us
+Slovak,24,2,grouped,l2_european
+Generic European,24,1,grouped,l2_european
+Canadian English|German English,23,1,conflict,
+United States English|Native speaker,23,1,grouped,us
+Brazilian,22,7,excluded,
+United States English|Irish English,22,1,excluded,
+Australian English|England English|New Zealand English,22,1,conflict,
+Irish English|Northern Irish English|belfast,22,1,excluded,
+England English|Norwegian,22,1,conflict,
+Hungarian,22,3,grouped,l2_european
+Canadian English|Filipino,22,5,conflict,
+Latino,21,4,unmapped,
+United States English|Chicago,21,2,grouped,us
+United States English|Canadian English|slight Brooklyn Accent,21,1,conflict,
+Canadian English|Lisp,21,2,excluded,
+South African English,21,2,grouped,southern_africa
+Swedish English,21,4,grouped,l2_european
+United States English|new england/east coast,21,1,grouped,us
+Malaysian English|Singaporean English,21,2,grouped,southeast_asia
+United States English|Malaysian English,21,2,conflict,
+Swedish accent,21,1,grouped,l2_european
+United States English|West Coast,20,3,grouped,us
+A Savage Texas Gentleman,20,1,grouped,us
+United States English|Australian English|England English|Irish English,20,1,excluded,
+United States English|serbian,20,1,conflict,
+Australian English|Educated Australian Accent,20,1,grouped,australia_nz
+Lithuanian|Non-native,20,1,grouped,l2_european
+Australian English|England English,20,1,conflict,
+Australian English|General Australian,20,1,grouped,australia_nz
+England English|East Anglian English,20,2,grouped,england
+Australian English|England English|Japanese,20,1,excluded,
+United States English|Cool,19,1,unmapped,
+Kiwi,19,1,grouped,australia_nz
+mostly American with some British and Australian inflections,19,1,excluded,
+United States English|Okie,19,1,unmapped,
+Canadian English|Irish English,18,1,excluded,
+California,18,1,grouped,us
+Brazillian Accent,18,1,excluded,
+Caribbean Canadian,18,1,excluded,
+United States English|Hmong-American,18,1,grouped,us
+Scottish English|Scottish English (West Coast)|Scottish English (Ayrshire),18,2,excluded,
+United States English|Neutral|Pennsylvanian,18,1,grouped,us
+Ghanaian english Accent|african regular reader,17,2,excluded,
+United States English|American Midwest,17,1,grouped,us
+"Northern Irish, English",17,2,excluded,
+Slavic|polish|Foreign|Easter European,17,2,grouped,l2_european
+North European English,17,1,grouped,l2_european
+United States English|midwest,17,2,grouped,us
+United States English|British English,16,1,excluded,
+Chinese,16,5,excluded,
+Kenyan English,16,1,excluded,
+Scottish English|Glaswegian,16,5,excluded,
+midwestern united states,16,2,grouped,us
+England English|Received Pronunciation,16,3,grouped,england
+West African,16,1,excluded,
+Kenyan |East African,15,1,excluded,
+England English|Southern England,15,1,grouped,england
+"England English|Lancashire, England",15,1,grouped,england
+Georgian English,15,1,unmapped,
+Kenyan,15,2,excluded,
+Filipino|Waray-waray dialect,15,2,unmapped,
+fluent|European|ESL,15,1,unmapped,
+United States English|Israeli accent,15,1,unmapped,
+"United States English|Chicano English|""Valley Girl"" English",15,1,unmapped,
+United States English|German|Russian,15,1,conflict,
+"2nd language, South African (first language Afrikaans)",15,1,grouped,southern_africa
+Perceived pronunciation English with no accent|None,15,1,unmapped,
+United States English|Canadian English|international,14,1,unmapped,
+United States English|Pacific North West United States,14,1,grouped,us
+Latin American accent,14,1,excluded,
+Australian English|Sydney - middle eastern seaboard Australian,14,1,grouped,australia_nz
+United States English|Singaporean English,14,1,conflict,
+Bangladeshi,13,1,grouped,south_asia
+A variety of Texan English with some German influence that has undergone the cot-caught merger,13,1,grouped,l2_european
+Hunglish,13,1,unmapped,
+"United States English|Southern African (South Africa, Zimbabwe, Namibia)",13,3,conflict,
+Northern Irish English,13,4,excluded,
+Turkish,13,4,unmapped,
+England English|Slightly lazy Midlands English |Oxford English,13,2,grouped,england
+United States English|England English|Irish English,13,1,excluded,
+Personal idiolect,13,1,unmapped,
+Finnish,13,4,grouped,l2_european
+"England English|Received English, tempered by 45 years living in the USA",13,1,conflict,
+Greek,13,3,grouped,l2_european
+European|Dutch|Adjustable,13,1,unmapped,
+United States English|Italian,12,1,conflict,
+Czech,11,3,grouped,l2_european
+United States English|Speech impediment,11,1,excluded,
+Russian Accent,11,1,grouped,l2_european
+United States English|Australian English|International English,11,1,unmapped,
+northen united states,11,1,grouped,us
+Malaysian English|Indonesian English,11,1,unmapped,
+Canadian English|Swedish English,11,1,conflict,
+"India and South Asia (India, Pakistan, Sri Lanka)|South India|Kannadiga",11,1,unmapped,
+England English|Southern England English,11,3,grouped,england
+United States English|Floridian,11,1,unmapped,
+England English|Suburban London,10,1,grouped,england
+U.K. English,10,1,excluded,
+Swiss English,10,1,grouped,l2_european
+"India and South Asia (India, Pakistan, Sri Lanka)|Indian with a tinge of an RP accent",10,1,conflict,
+Japan English,10,1,excluded,
+United States English|Latin America,10,1,excluded,
+West Indian,10,1,excluded,
+European|eastern europe|pronounced r's|heavy consonants,10,1,unmapped,
+"United States English|Australian English|England English|India and South Asia (India, Pakistan, Sri Lanka)|New Zealand English|international|Slovak",10,1,unmapped,
+Latinamerican,10,1,unmapped,
+German Accent|Non-native,10,1,grouped,l2_european
+United States English|Midwestern|Michigan,10,1,grouped,us
+Transnational englishes blend,10,1,excluded,
+Northern Irish|belfast,10,2,excluded,
+Nigerian |West African,10,1,excluded,
+United States English|Pittsburgh PA,10,1,unmapped,
+Russian English,10,2,grouped,l2_european
+"slighty Southern affected by decades in the Midwest, 4 years in Spain and Germany, speak some German, Spanish, Polish. Have lived in nine states.",9,1,grouped,us
+English north of England,9,1,grouped,england
+Czech accent,9,1,grouped,l2_european
+United States English|United States Southeastern English (Charlotte NC),9,2,grouped,us
+United States English|Midwest United States,9,1,grouped,us
+African Accent,9,1,unmapped,
+United States English|Mix of voices,9,1,excluded,
+United States English|southern draw,9,2,unmapped,
+United States English|thicc southern drawl,9,1,unmapped,
+United States English|midwestern US,9,1,grouped,us
+polish accent,9,1,grouped,l2_european
+Eastern European English|bulgarian english,9,1,grouped,l2_european
+England English|Very British,9,1,excluded,
+European accent,9,1,grouped,l2_european
+Liverpudlian English,9,1,unmapped,
+mexican accent,9,1,excluded,
+Korean,8,1,excluded,
+Kenyan accent,8,3,excluded,
+Norwegian,8,2,grouped,l2_european
+Turkey English,8,1,unmapped,
+England English|Swedish,8,1,conflict,
+Australian English|Canadian English,8,2,conflict,
+Scottish English|Cowdengelly,8,1,excluded,
+United States English|United States Latino English,8,1,grouped,us
+Scottish English|highland|east highland,8,2,excluded,
+United States English|German,8,3,conflict,
+United States English|Californian,8,4,grouped,us
+Eastern European,8,3,grouped,l2_european
+German English|I am German and speak English as learned at school,8,1,grouped,l2_european
+United States English|Northeast US,8,2,grouped,us
+United States English|Midwestern|Chicago |Gen Z,8,1,unmapped,
+"India and South Asia (India, Pakistan, Sri Lanka)|I think mine accent is influenced by Indian Accent |Yes Please.",8,1,unmapped,
+"United States English|Slight Latino accent, immigrant",8,1,unmapped,
+Western Europe,7,1,grouped,l2_european
+Welsh English|Shropshire,7,1,excluded,
+United States English|Southern United States English|Lightly Southern,7,1,unmapped,
+Afrikaans English,7,1,grouped,southern_africa
+United States English|English Second Language,7,1,unmapped,
+Eastern European heavily influenced by the Greek clear pronounciation of vowels and consonants.,7,1,grouped,l2_european
+"India and South Asia (India, Pakistan, Sri Lanka)|Bengali English",7,1,grouped,south_asia
+Latin American accent influenced by American English,7,1,excluded,
+geordie |England Northern,7,1,grouped,england
+Bangladeshi|Bangladesh English,7,1,grouped,south_asia
+South Dublin English|Dublin South English,7,1,unmapped,
+Canadian English|French,7,2,conflict,
+England English|Israeli,7,1,unmapped,
+England English|London English,7,2,grouped,england
+"A mix - A Thai native, non-native English speaker, initially educated under British system in Thailand then later educated in the US",7,1,excluded,
+Danish English|Transatlantic,7,1,unmapped,
+United States English|I have what I would call a plain old American voice. I'm from Las Vegas where local,7,1,grouped,us
+United States English|Turkish,7,2,unmapped,
+United States English|Ponglish,7,1,unmapped,
+English as second language (russian as first),7,2,grouped,l2_european
+UK Southern English,7,1,excluded,
+United States English|California English,7,1,grouped,us
+american,7,3,grouped,us
+Canadian English|Western Canada,7,2,grouped,canada
+Spanish bilingual,7,1,grouped,l2_european
+indonesia,7,3,unmapped,
+United States English|Colombia,7,1,excluded,
+spanish native with a good level of proficiency in english|colombian,7,2,excluded,
+United States English|California,6,2,grouped,us
+light french accent,6,1,grouped,l2_european
+England English|North of England|Lancashire|Mild scouse,6,2,grouped,england
+United States English|Philadelphia,6,2,grouped,us
+Russian|East Ukrainian,6,1,grouped,l2_european
+Midatlantic,6,1,unmapped,
+Egyptian,6,2,unmapped,
+United States English|German Accent,6,1,conflict,
+England English|Received Pronunciation|London Accent,6,2,grouped,england
+United States English|Hong Kong English,6,2,excluded,
+England English|Luton|Dunstable,6,2,unmapped,
+"Southern African (South Africa, Zimbabwe, Namibia)|Xhosa|male|black",6,2,unmapped,
+Colombian Accent,6,1,excluded,
+England English|International Southern/London,6,1,grouped,england
+serbian,6,2,grouped,l2_european
+United States English|New Zealand English,6,1,conflict,
+Ugandan,6,4,excluded,
+United States English|Foreign accent,6,1,conflict,
+United States English|Midwestern|African American |Midwestern Wisconsin|Wisconsin,6,2,excluded,
+"Немного русский акцент произношения, съедание слов",5,1,unmapped,
+United States English|Foreigner English,5,1,unmapped,
+Russian|Slavic|Ukrainian,5,1,grouped,l2_european
+United States English|Pacific Northwest English,5,1,grouped,us
+very slight Russian accent|Standard American English|Boston influence,5,1,conflict,
+"not native English, originally French native language",5,1,grouped,l2_european
+United States English|Northern|Urban,5,1,unmapped,
+United States English|California|Transgender,5,2,unmapped,
+french english,5,2,grouped,l2_european
+native Finnish speaker|English as a second language|learner|was exchenge student in the US Midwest|learned RP (received pronunciation) in school,5,1,unmapped,
+United States English|Swedish,5,1,conflict,
+United States English|Transfemale - US English|Transgender Woman - US English,5,1,grouped,us
+United States English|United States English Pacific Northwest,5,1,grouped,us
+Taiwanese English,5,2,excluded,
+United States English|Dutch,5,1,conflict,
+United States English|Variable,5,1,unmapped,
+United States English|West Coast|Oregonian |generic white guy,5,1,unmapped,
+United States English|country|midwesterern,5,1,unmapped,
+United States English|i have some pronunciation issues because of oral surgery and a hidden southern accent,5,1,unmapped,
+United States English|little bit classy little bit sassy and add some city.....thats me,5,1,unmapped,
+United States English|East Texas|Texan,5,1,unmapped,
+United States English|pin/pen merger,5,1,unmapped,
+Scottish English|Scottish,5,1,excluded,
+United States English|Eastern United States,5,1,grouped,us
+United States English|Midwest US... With some Canadian slang.,5,1,grouped,us
+United States English combined with European English,5,1,grouped,us
+United States English|western united states,5,1,grouped,us
+"West Indies and Bermuda (Bahamas, Bermuda, Jamaica, Trinidad)|Patois",5,1,excluded,
+"United States English|Born and lived in eastern VA for 8 years. Then lived in southern CA for 13 years.  Lived in MD, NC, WA, HI  for 1-3 years each.  Spent 30 years in Washington DC area and 17 years in Northern KY/Cincinnati OH area",5,1,unmapped,
+international,5,3,unmapped,
+United States English|Silicon Valley Native,5,1,unmapped,
+United States English|Rhode Island|Massachusetts|Northeastern,5,1,unmapped,
+mix of american and british |native polish,5,1,excluded,
+United States English|Midwestern|a little stuffed up,5,1,unmapped,
+Polish English,5,1,grouped,l2_european
+England English|Russian,5,1,conflict,
+Lebanese accent,5,1,unmapped,
+Canadian English|Toronto English,5,1,grouped,canada
+East Indian,5,1,grouped,south_asia
+East London,5,1,grouped,england
+Israeli accent,5,1,unmapped,
+"England English|Educated,non regional",5,1,unmapped,
+England English|Middle-class London English accent with a very slight west-country twang,5,1,grouped,england
+England English|Porto des dels 3 anys aprenent anglès a l'escola i actualment m'estic preparant per a l'examen del B2.,5,1,unmapped,
+English County Durham,5,1,unmapped,
+Canadian English|Pacific Northwest English,5,1,conflict,
+English Cumbrian|English Northern,5,1,unmapped,
+English with Swiss german accent,5,1,grouped,l2_european
+Filipino English,5,2,grouped,southeast_asia
+Filipino|Bisaya,5,1,unmapped,
+Haitian Creole,5,1,unmapped,
+Hispanic/Latino,5,1,unmapped,
+"I was born in England and have lived in Australia, Canada and France.",5,1,grouped,england
+Canadian English|SerpentX,5,1,unmapped,
+Indian English,5,4,grouped,south_asia
+Australian English|Hong Kong English,5,1,excluded,
+Non native English,5,2,unmapped,
+New York City,5,1,grouped,us
+Nigerian,5,1,excluded,
+"United States English|Influenced by living in Maine and Ohio, but I actively tried to drop the Maine accent when I was young.",4,1,grouped,us
+"kenyan, and english",4,2,excluded,
+English (Native Greek speaker),4,1,grouped,l2_european
+England non-native,4,1,grouped,england
+United States English|Hong Kong English|Singaporean English,4,1,excluded,
+United States English|Kentucky united states accent|southern usa,4,1,grouped,us
+European English|French|Romanian,4,1,grouped,l2_european
+United States English|Kenyan English,4,1,excluded,
+indian,4,3,grouped,south_asia
+United States English|Maine,4,1,unmapped,
+United States English|Mid Atlantica |African American Vernacular,4,1,excluded,
+flemish,4,1,grouped,l2_european
+Australian English|Russian|Ukrainian,4,1,conflict,
+United States English|portuguese,4,2,conflict,
+United States English|Midwest American,4,1,grouped,us
+"Australian English|England English|India and South Asia (India, Pakistan, Sri Lanka)",4,1,conflict,
+France English|Germany English,4,1,unmapped,
+German English|German native speaker,4,1,grouped,l2_european
+Angliche avec un accent franchouillard,4,1,unmapped,
+slightly slurred due to age and alcohol consumption.,4,1,unmapped,
+Hong Kong English|Scottish English,4,1,excluded,
+I am |Kenyan influenced by British english,4,1,excluded,
+I have a mild Brooklyn accent.,4,1,grouped,us
+A'lo,4,1,unmapped,
+Icelandic,4,2,grouped,l2_european
+"India and South Asia (India, Pakistan, Sri Lanka)|Basic",4,1,unmapped,
+Turkish Accent,4,3,unmapped,
+Tinged with southern accent|Midwestern United States - Chicago,4,1,unmapped,
+England English|Polish English,4,1,conflict,
+England English|Northern,4,1,unmapped,
+United States English|Midwest US,4,1,grouped,us
+East Asian,4,1,unmapped,
+Canadian English|French Canadian,4,1,conflict,
+Canadian English|Kenyan English,4,1,excluded,
+"United States English|southern, formal, sultry",4,1,unmapped,
+British,4,1,excluded,
+United States English|learnt from Spanish,4,1,conflict,
+United States English|a combination of Michigan and New England,4,1,excluded,
+United States English|Western New England English,4,1,grouped,us
+Chichester,4,1,unmapped,
+United States English|United States English. people say I sound like a surffer dude.,4,1,grouped,us
+United States English|US midwestern,4,1,grouped,us
+Danish/British/American blend,4,1,excluded,
+United States English|Southern Texas Accent,4,1,grouped,us
+"United States English|Southern New England English (Boston, Worcester, Lowell Area)",4,1,grouped,us
+Wise Canadian English,4,1,grouped,canada
+United States English|plain|southern draw|west coast surfer dude,4,1,unmapped,
+United States English|Southern Appalachian English|Southern United States English,4,1,grouped,us
+Yoruba,4,1,unmapped,
+England English with a touch of Canadian,4,1,grouped,england
+England English|Bedford English|Cambridge English,4,1,unmapped,
+"United States English|Puerto Rican|Latin American English|Florida|New York|Long Island|Savannah, Georgia",4,1,excluded,
+England English|Dutch,4,2,conflict,
+Brazilian|Latino,4,1,excluded,
+England English|Finnish,4,2,conflict,
+England English|Mancunian|West Yorkshire,4,1,grouped,england
+bulgarian english|non-native speaker,4,1,grouped,l2_european
+England English|My accent in particular is regional - specifically Shropshire - identified in other parts of the UK as a West Midlands accent.,4,1,excluded,
+England English|North-Western English after 40 years in Surrey,4,1,grouped,england
+United States English|Midwest USA speech blended with South Texas USA speech,4,1,excluded,
+United States English|San Francoso Bay area english,4,1,unmapped,
+Русский,4,1,unmapped,
+Non-native,4,1,unmapped,
+Mild Northern England English,4,1,grouped,england
+"""Cretan_Accent""",4,1,unmapped,
+L2,4,1,unmapped,
+Korean American|Korean American English,4,1,excluded,
+Nottinghamshire|East Midlands,4,1,grouped,england
+"Southern African (South Africa, Zimbabwe, Namibia)|Durban",4,1,unmapped,
+Manchester| English English| Mancunian| British English,4,1,excluded,
+Rhode Island New England Accent,4,1,grouped,us
+Non native speaker from France,4,1,unmapped,
+"London, England",4,1,grouped,england
+Northern English|yorkshire,4,1,grouped,england
+French Canadian,3,2,grouped,l2_european
+Nepali English,3,1,grouped,south_asia
+United States English|Dutch English,3,1,conflict,
+United States English|cajun,3,1,unmapped,
+Foreign|Finnish foreign accent,3,1,grouped,l2_european
+United States English|Deep South US,3,1,grouped,us
+Danish,3,3,grouped,l2_european
+United States English|England English|Hong Kong English,3,1,excluded,
+"German English|""denglish""",3,1,unmapped,
+German native,3,1,grouped,l2_european
+Central Scottish,3,1,excluded,
+United States English|Colorado,3,1,grouped,us
+German English|Sick,3,1,unmapped,
+United States English|Southern with a stutter,3,1,excluded,
+England English|London/Cockney Accent,3,1,grouped,england
+United States English|Central New York accent,3,2,grouped,us
+United States English|kentucky,3,1,grouped,us
+Italian|Sicilian,3,1,unmapped,
+United States English|Canadian English|Indo-Canadian English,3,1,conflict,
+Hong Kong English|Singaporean English,3,1,excluded,
+United States English|California|30 year old adult male,3,1,unmapped,
+Hungarian English,3,1,grouped,l2_european
+United States English|midwestern united states,3,2,grouped,us
+United States English|England English|Irish English|Scottish English,3,1,excluded,
+Egyptian English,3,1,unmapped,
+Dutch modern English,3,1,grouped,l2_european
+Russian|Slavic|Cyrilic,3,1,unmapped,
+England English|Italian,3,1,conflict,
+United States English|Midwestern|ohio,3,1,grouped,us
+England English|Nigerian English,3,1,excluded,
+"England English|India and South Asia (India, Pakistan, Sri Lanka)|Essex",3,1,conflict,
+Mexican English,3,2,excluded,
+Scottish English|spanish english,3,1,excluded,
+Second tongue,3,1,unmapped,
+"England English|I speak like a typical South East England, South London accent",3,1,grouped,england
+United States English|Mid Atlantic,3,2,unmapped,
+Scottish English|I have stayed in the Scottish Borders all my life.,3,1,excluded,
+"England English|Esturine, from the region around the Thames Estuary in England",3,1,grouped,england
+"England English|East Midland, United Kingdom",3,1,excluded,
+"England English|Souther English, long-term resident in Scotland",3,1,excluded,
+United States English|Irish English|Italian,3,1,excluded,
+England English|East Anglian English|East Midlands English|Fenland English,3,1,unmapped,
+England English|Dutch English,3,1,conflict,
+United States English|Pennsylvanian,3,1,grouped,us
+England English|Standard English,3,1,unmapped,
+England English|British|South England,3,1,excluded,
+England English|British English|Manchester|Mancunian| Speech Impediment,3,1,excluded,
+United States English|Hungarian English (English spoken by a Hungarian national),3,1,conflict,
+United States English|Russian English Accent,3,1,conflict,
+England English|geordie,3,1,grouped,england
+United States English|Slavic,3,1,conflict,
+Brooklyn,3,1,grouped,us
+United States English|midwest|Chicago,3,1,grouped,us
+England English|Kent,3,1,grouped,england
+United States English|vietnamese accent,3,1,excluded,
+United States English|Appalachian English,3,1,grouped,us
+United States English|American Midwestern,3,1,grouped,us
+Non Native - French speaker,3,1,grouped,l2_european
+Born and raised in Greece. English is a second language. I was taught British English but I think my accent has shifted to American English.,3,1,excluded,
+"United States English|According to APTIS, I've got a C1 level",3,1,unmapped,
+"United States English|A midwestern accent, specific to the St. Louis area.",3,1,grouped,us
+Blurpy,3,1,unmapped,
+hello my friend|i love you|hey you are you ok |ho are you|yes i am,3,1,unmapped,
+indian|Neutral|slow,3,1,unmapped,
+international school|Indonesian,3,1,unmapped,
+Australian English|teenager,3,1,unmapped,
+Australian English|New Zealand English,3,1,grouped,australia_nz
+Turkish-accented English,3,1,unmapped,
+"India and South Asia (India, Pakistan, Sri Lanka)|South Indian",3,1,grouped,south_asia
+"India and South Asia (India, Pakistan, Sri Lanka)|Tamilnadu English",3,1,grouped,south_asia
+Argentinian English,3,1,excluded,
+Argentine English,3,1,excluded,
+not a native speaker,3,1,unmapped,
+slavic accent|Russian Accent,3,1,grouped,l2_european
+Indonesian|indonesia,3,1,unmapped,
+Spanish,3,1,grouped,l2_european
+African-America,3,1,grouped,us
+Sunderland English,3,1,unmapped,
+Выраженный украинский акцент,3,1,unmapped,
+Brazilian Accent|slight british accent,3,1,excluded,
+"India and South Asia (India, Pakistan, Sri Lanka)|Indian English",3,1,grouped,south_asia
+United States English|Australian English|United Kingdom English,3,2,excluded,
+Not bad,3,1,unmapped,
+United States English|Australian English|England English|Irish English|Scottish English|Welsh English,3,1,excluded,
+United States English|Australian English|England English|Canadian English|Hong Kong English|Greek-made|gaming-english,3,1,excluded,
+British Americanized english,3,1,excluded,
+Nigerian English|British|Nigerian,3,1,excluded,
+United States English|Non-native,2,1,conflict,
+Midwestern,2,1,grouped,us
+England English|Eastury English,2,1,unmapped,
+United States English|midwestern Missourian drawl,2,1,grouped,us
+Northern Africa Accent,2,1,unmapped,
+northern cali,2,1,unmapped,
+native Dutch speaking,2,1,grouped,l2_european
+"United States English|mid-west with speach and mind problems from MS|Mid western with a little Southern, with speach problems related to MS.",2,1,unmapped,
+Brazillian,2,1,excluded,
+Northern English,2,1,grouped,england
+mongolian,2,1,unmapped,
+England English|English RP,2,1,grouped,england
+colombian,2,1,excluded,
+mixed middle eastern and european accent,2,1,excluded,
+Welsh English|south east wales,2,1,excluded,
+British with slightly Brazilian accent|British and slightly Brazilian,2,1,excluded,
+England English|Irish English,2,1,excluded,
+"typical British accent, twinge of Yorkshire",2,1,excluded,
+Weird,2,1,unmapped,
+British English|London English,2,1,excluded,
+Alabama black American,2,1,excluded,
+slightly southern,2,1,unmapped,
+Arabic English,2,1,unmapped,
+United States English|Minnesotan English,2,1,grouped,us
+England English|I think I speak clearly with an accent that is easy to understand.,2,1,unmapped,
+United States English|Mixed United States English,2,1,excluded,
+British English,2,2,excluded,
+North Wales 1st language Welsh English,2,1,excluded,
+England English|Hong Kong English,2,1,excluded,
+England English|British Indian,2,1,excluded,
+Canadian English|Welsh English,2,1,excluded,
+Australian English|Hybrid United States and Australian,2,1,excluded,
+cajun french,2,1,grouped,l2_european
+Canadian English|latin American person,2,1,excluded,
+United States English|Spanish|Very sexy |Very good|I sound professional,2,1,unmapped,
+Deutsch English,2,1,unmapped,
+Deformato,2,1,unmapped,
+belgian-american,2,1,grouped,us
+United States English|Tinged with southern accent|Midwestern United States - Chicago,2,1,unmapped,
+Central Midwestern United States with a Southern US Influence,2,1,grouped,us
+chinese accent,2,2,excluded,
+Connecticut/Western Massachusetts,2,1,grouped,us
+chilean non native english,2,1,excluded,
+United States English|Turkmen,2,1,unmapped,
+United States English|United States-West Coast-Alaska|United States-Midwestern,2,1,grouped,us
+Nepalese,2,1,grouped,south_asia
+Chinglish,2,2,unmapped,
+american english,2,1,grouped,us
+Non native,2,1,unmapped,
+Nasal|Belgian,2,1,unmapped,
+Russian|Eastern European,2,1,grouped,l2_european
+Russian|I don't know|Kazakh,2,1,unmapped,
+Persian British,2,1,excluded,
+Mixed accent,2,1,excluded,
+Balkan,2,1,unmapped,
+United States English|Slightly gay,2,1,unmapped,
+"England English| I speak like a typical South East England, in a soft South London accent.",2,1,grouped,england
+United States English|Slight English Ring,2,1,unmapped,
+England English| north yorkshire,2,1,grouped,england
+Mixed United States and England,2,1,excluded,
+England English|Black Country|west midlands,2,1,grouped,england
+"New Zealand English|I don't really speak english, just practicing",2,1,unmapped,
+"Scottish English|Clackmannnnanshire, Scotland",2,2,excluded,
+United States English|Sacramento,2,1,unmapped,
+Israeli-USA-MIX,2,1,excluded,
+North Africa,2,1,unmapped,
+Hybrid Indian/Australian/American,2,1,excluded,
+I love all these humanitarian roles.,2,1,unmapped,
+"England English|Surrey accent, Southern English.",2,1,grouped,england
+So its a dialect of its own Mississippi and Bama based the southern twang gets deeper in the right setting and such a unique language is the best way to put it yall,2,1,grouped,us
+Tibetan American,2,1,grouped,us
+England English|Yorkshire English,2,1,grouped,england
+England English|london|South England,2,1,grouped,england
+I speak as if I am there.,2,1,unmapped,
+French speaking english,2,1,grouped,l2_european
+Trinidad and Tobago,2,1,excluded,
+English (UK),2,1,excluded,
+Southern Texas Spanish American,2,1,grouped,us
+"United States English|Flat Californian ""Hollywood"" Accent",2,1,grouped,us
+Lancashire,2,1,grouped,england
+English Ghanaian,2,1,excluded,
+"India and South Asia (India, Pakistan, Sri Lanka)|Nepali",2,1,grouped,south_asia
+"United States English|England English|Southern African (South Africa, Zimbabwe, Namibia)",2,1,conflict,
+English Welsh,2,1,excluded,
+United States English|England English|Israeli|Faroe islands,2,1,unmapped,
+South America,2,1,excluded,
+"I've been told I sound as if I come from NYC, but I grew up in the US midwest and have lived in the US southwest for over 30 years. the",2,2,grouped,us
+Ghanaian,2,1,excluded,
+United States English|Chicago/Midwestern,2,1,grouped,us
+English with a French accent,2,1,grouped,l2_european
+United States English|Coastal Elite English,2,1,unmapped,
+"India and South Asia (India, Pakistan, Sri Lanka)|Assamese",2,1,unmapped,
+Korean American English,2,1,excluded,
+Filipino|Eastern European|ukrainian anglosax,2,1,conflict,
+United States English|Danish,2,1,conflict,
+"United States English|I personally don't hear it but if present I would attribute to English being my second language,",2,1,unmapped,
+England English|Mancunion,2,1,unmapped,
+"India and South Asia (India, Pakistan, Sri Lanka)|Bangladeshi English",2,1,grouped,south_asia
+Israeli's accent,2,1,unmapped,
+United States English|Brazilian|latin,2,1,excluded,
+Strong Russian accent,2,1,grouped,l2_european
+Slavic English,2,1,grouped,l2_european
+United States English|Midwestern Rural,2,1,grouped,us
+Third Culture Kid / South American English,2,1,excluded,
+United States English|Latvian,2,1,conflict,
+Swedish,2,1,grouped,l2_european
+United States English|Latino,2,1,unmapped,
+Standard British English,2,1,excluded,
+United States English|British|iowa,2,1,excluded,
+Mandarin English,2,1,unmapped,
+Latvian English,2,1,grouped,l2_european
+Italian English,2,1,grouped,l2_european
+Scottish English|Renfrewshire. Scotland,2,1,excluded,
+United States English|California English|Riverside County English|Temecula English,2,1,unmapped,
+I have none that I can tell.,2,1,unmapped,
+United States English|Indiana USA|midwest america,2,1,grouped,us
+United States English|Boston,2,1,grouped,us
+Tatar English,2,2,unmapped,
+England English|Sore throat|Masculine,2,1,unmapped,
+Latino English (Mexico),2,1,excluded,
+United States English|Arabic,1,1,unmapped,
+"Southern California, Los Angeles native for 30+ years with another 7 years spent living in the Rocky Mountains of Colorado. |Southern-Californian",1,1,grouped,us
+"dutch, but spent a lot of time in australia and the USA",1,1,grouped,us
+I have a London/Esssex UK accent.,1,1,excluded,
+United States English|American Midwest|United States English : American MidWest,1,1,grouped,us
+european 2nd language english,1,1,grouped,l2_european
+english norwegian,1,1,grouped,l2_european
+cypriot bilingual english,1,1,unmapped,
+British English|Cornish English,1,1,excluded,
+Whybare you asking,1,1,unmapped,
+chicago italian,1,1,grouped,us
+British English|Chinese English,1,1,excluded,
+Nigerian-Yoruba,1,1,excluded,
+West African - Liberia,1,1,excluded,
+United States English|Australian English|England English,1,1,conflict,
+West Coast American English,1,1,grouped,us
+american|American Southern English|Sounthern English,1,1,unmapped,
+"United States English|Australian English|England English|Canadian English|Filipino|Hong Kong English|India and South Asia (India, Pakistan, Sri Lanka)|Irish English|Malaysian English|New Zealand English|Scottish English|Singaporean English|South Atlantic (Falkland Islands, Saint Helena)|Welsh English|West Indies and Bermuda (Bahamas, Bermuda, Jamaica, Trinidad)|just like us accent",1,1,excluded,
+"I'm from Brazil,  my Native language is portuguese",1,1,excluded,
+Zambia,1,1,grouped,southern_africa
+British English - North West,1,1,excluded,
+Israely English,1,1,unmapped,
+"Yorkshire, UK",1,1,excluded,
+american|Spanish,1,1,conflict,
+Awful,1,1,unmapped,
+Brazilian Accent,1,1,excluded,
+Tunisian English,1,1,unmapped,
+"India and South Asia (India, Pakistan, Sri Lanka)|West Indies and Bermuda (Bahamas, Bermuda, Jamaica, Trinidad)",1,1,excluded,
+non native French speaker,1,1,grouped,l2_european
+Southern counties English,1,1,unmapped,
+Tibetan,1,1,unmapped,
+Argentina,1,1,excluded,
+"India and South Asia (India, Pakistan, Sri Lanka)|indian",1,1,grouped,south_asia
+American English with Swedish accent,1,1,grouped,us
+Israeli-russian-mixed english,1,1,excluded,
+Irish English|English,1,1,excluded,
+Algeria|Algerian,1,1,unmapped,
+spanish english,1,1,grouped,l2_european
+African Kenyan,1,1,excluded,
+telugu,1,1,grouped,south_asia
+ukrainian accent,1,1,grouped,l2_european
+urban Hibernian,1,1,unmapped,
+North American southeastern dialect,1,1,excluded,
+"A bit country, not too far southern of a dialect, with obvious manners",1,1,unmapped,
+Australian English|East Africa (Uganda),1,1,excluded,
+nIGERIAN ENGLISH ACCENT,1,1,excluded,
+United States English|Am an African that is all I can say,1,1,unmapped,
+Turkish English|Russian English|Azerbaijani English,1,1,unmapped,
+"United States English, but with better than typical diction.",1,1,grouped,us
+Bengali|Rohingya,1,1,unmapped,
+french-origins english,1,1,grouped,l2_european
+Bengali English,1,1,grouped,south_asia
+"United States English with slight vocal tremor and high-pitched ""hoarse"" voice.",1,1,grouped,us
+i am ethiopian,1,1,excluded,
+Southern Californian,1,1,grouped,us
+"India and South Asia (India, Pakistan, Sri Lanka)|Calm and fluent",1,1,unmapped,
+Uk English West Country,1,1,excluded,
+Azerbaijani,1,1,unmapped,
+"India and South Asia (India, Pakistan, Sri Lanka)|Malaysian English",1,1,conflict,
+Uganda - English,1,1,excluded,
+United States English|wolof,1,1,unmapped,
+UK south coast,1,1,excluded,
+"India and South Asia (India, Pakistan, Sri Lanka)|Marwadi, rajasthani",1,1,unmapped,
+UK English,1,1,excluded,
+Turkmen,1,1,unmapped,
+British midlands,1,1,excluded,
+Scottish English|Posh Scottish English,1,1,excluded,
+I have Pakistan neutral accent,1,1,grouped,south_asia
+Eastern Africa,1,1,unmapped,
+England English|A mix of England English and Northeastern United Sates,1,1,excluded,
+England English|very subtle german/non native accent,1,1,conflict,
+South African,1,1,grouped,southern_africa
+Latin American English,1,1,excluded,
+Rwanda,1,1,unmapped,
+United States English|Flat midwestern,1,1,grouped,us
+United States English|Slovenian,1,1,conflict,
+"United States English|South Atlantic (Falkland Islands, Saint Helena)",1,1,excluded,
+Mixed european,1,1,excluded,
+England English|Western European non-native English,1,1,conflict,
+English Russia,1,1,grouped,l2_european
+East African,1,1,excluded,
+United States English|Southern United States English,1,1,grouped,us
+United States English|Southern|eastern us|Appalachia,1,1,unmapped,
+Dutch frysian accent,1,1,grouped,l2_european
+United States English|England English|Irish English|Mid-atlantic,1,1,excluded,
+Domincian,1,1,unmapped,
+South Asia (Bangladesh),1,1,grouped,south_asia
+England English|northern England like the game of throne.like the north wall,1,1,grouped,england
+"United States English|I personally don't hear it but if present I would attribute to English being my second language, |Spanish was my first",1,1,unmapped,
+Italian accent from Northern Italy (Milan),1,1,grouped,l2_european
+United States English|New York|italian american,1,1,grouped,us
+England English|Midlands English,1,1,grouped,england
+Mid Atlantic United States - Philadelphia Suburbs,1,1,grouped,us
+"England English|India and South Asia (India, Pakistan, Sri Lanka)|Southern African (South Africa, Zimbabwe, Namibia)",1,1,conflict,
+Mexican-German Canadian,1,1,excluded,
+England English|Northern English|yorkshire,1,1,grouped,england
+Singaporean English|Thai English,1,1,excluded,
+England English|RP,1,1,grouped,england
+United States English|Lithuanian,1,1,conflict,
+North African,1,1,unmapped,
+"United States English|I rather fancy a stroll through the garden, don't you",1,1,unmapped,
+England English|Educated rural UK English,1,1,excluded,
+Slight spanish accent when speaking english,1,1,grouped,l2_european
+Spanish influenced,1,1,grouped,l2_european
+United States English|Norwegian,1,1,conflict,
+England English|Spanglish,1,1,unmapped,
+Scottish English|Dundonian Scottish,1,1,excluded,
+England English|Cheshire Accent,1,1,unmapped,
+England English|Central European,1,1,conflict,
+Native Lithuanian English Speaker,1,1,grouped,l2_european
+Danish English,1,1,grouped,l2_european
+United States English|England English|Filipino,1,1,conflict,
+United States English|northside of Chicago with east and west coast variations,1,1,grouped,us
+"Queenslandish, lived with my grandfather for a time who has a mix between the australian and an english accent.",1,1,excluded,
+Problema alla corte vocali,1,1,unmapped,
+"United States English|Canadian English|Southern African (South Africa, Zimbabwe, Namibia)",1,1,conflict,
+Polish/Nordic English,1,1,grouped,l2_european
+Italian/US-English,1,1,grouped,us
+United States English|California Native,1,1,grouped,us
+I am Hispanic,1,1,unmapped,
+Canadian English|Hispanic,1,1,unmapped,
+Nepali|Nepali American|Nepali English,1,1,conflict,
+Cowdengelly,1,1,unmapped,
+Persian|Iranian,1,1,unmapped,
+Canadian English|English Hungarian,1,1,conflict,
+Californian Accent,1,1,grouped,us
+California Okie,1,1,grouped,us
+Bruneian English,1,1,unmapped,
+I am Spanish but I lived in France for 14 years which changed even my Spanish accent. So I have also a French language influence from,1,1,grouped,l2_european
+Of Afrikan Kenyan descent with some American influence,1,1,excluded,
+British|English,1,1,excluded,
+Raised in Ireland with English as my first language,1,1,excluded,
+Good,1,1,unmapped,
+Ghanaian English,1,1,excluded,
+Canadian English|canadian - toronto english,1,1,grouped,canada
+Kalenjin,1,1,unmapped,
+United States English|U.S. West Coast Asian-American,1,1,grouped,us
+United States English|East Texas,1,1,grouped,us
+Colombian living in Brazil for 20 years,1,1,excluded,
+United States English|Dutch|Wonky,1,1,unmapped,
+"United States English|United States English, but with better than typical diction.",1,1,grouped,us
+Chinese-English,1,1,excluded,
+Chinese-Australian English,1,1,excluded,
+Chinese accent of English,1,1,excluded,
+Nepali English Male,1,1,grouped,south_asia
+United States English|Cuban,1,1,unmapped,
+South East England,1,1,grouped,england
+Catalan,1,1,grouped,l2_european
+Canadian Latino immigrant,1,1,grouped,canada
+Romanian,1,1,grouped,l2_european
+United States English|american,1,1,grouped,us
+United States English|country,1,1,unmapped,
+England English|East Midlands,1,1,grouped,england

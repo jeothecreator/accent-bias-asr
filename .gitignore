@@ -1,0 +1,12 @@
+# Common Voice audio and raw TSVs: never redistribute (see data card)
+data/raw/
+data/audio_subset/
+data/audio_subset.zip
+*.mp3
+*.tar.gz
+
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+.ipynb_checkpoints/
