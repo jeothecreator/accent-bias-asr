@@ -1,3 +1,5 @@
+[Personal Report (PDF)](Accent%20Bias%20Personal%20Report.pdf)
+
 # Accent Bias in Speech Recognition
 
 Does OpenAI's Whisper transcribe English less accurately for some accents than others, and does
