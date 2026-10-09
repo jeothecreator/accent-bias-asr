@@ -8,7 +8,7 @@ the gap between accent groups change as the model gets bigger?
 This repo audits Whisper (tiny → large/turbo) on Mozilla Common Voice English, grouped by
 self-reported accent, using word error rate (WER).
 
-[findings](findings/)
+[findings](results/)
 
 ## Repo layout
 
