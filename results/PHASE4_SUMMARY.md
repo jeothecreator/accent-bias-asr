@@ -43,14 +43,6 @@ _"other ÷ inner" = pooled WER of the four outer/expanding-circle groups divided
 
 `*` = the 95% CI excludes zero (a difference unlikely to be noise).
 
-## Draft key findings (check the numbers, then rewrite in your own words)
-
-1. **Every model makes more errors on outer- and expanding-circle accents.** With tiny, those four groups have 2.1× the error rate of the inner-circle groups; with large-v3 it is 2.7×.
-2. **Bigger models help everyone a lot.** From tiny to large-v3, pooled WER falls from 9.8% to 2.0% for the inner circle (79% fewer errors) and from 20.7% to 5.6% for the other groups (73% fewer).
-3. **The gap shrinks in points but not in proportion.** The best-to-worst gap falls from 15.7 to 4.9 percentage points, but the ratio between groups actually grows: other ÷ inner goes from 2.11× to 2.74× (change +0.63, 95% CI [+0.22, +1.21]).
-4. **turbo, the faster pruned large-v3, gives back some of the gains, mostly on the groups with higher WER:** other ÷ inner 3.06× vs 2.74× for large-v3.
-5. **The gap is not Whisper-specific.** wav2vec 2.0, trained only on audiobooks, shows other ÷ inner 2.46×.
-
 ## Worst clips to listen to
 
 `worst_clips_to_tag.csv` lists the 50 clips large-v3 got most wrong. Listen to each one (`data/audio_subset/<clip_id>`) and fill in `tag` with one or more of: `hallucination` (the model invented text unrelated to the audio, e.g. "Transcription by CastingWords"), `names` (proper nouns, rare words), `sounds` (specific vowels/consonants), `speed`, `noise` (background/mic quality), `label_error` (the reference text is wrong or the speaker read something else), `other`. By group:
