@@ -8,7 +8,47 @@ the gap between accent groups change as the model gets bigger?
 This repo audits Whisper (tiny → large/turbo) on Mozilla Common Voice English, grouped by
 self-reported accent, using word error rate (WER).
 
-[findings](results/)
+## Findings
+
+**Whisper makes 2–3× as many errors on South Asian, Southern African, Southeast
+Asian and second-language European English as on US, England, Canadian and
+Australian/NZ English — at every model size tested.**
+
+On large-v3, WER ranges from 1.4% (Canada) to 6.2% (Philippines/Malaysia/
+Singapore). All four non-inner-circle groups are worse than the US group on all
+seven models, and every one of those 28 differences has a 95% CI excluding zero.
+
+**Bigger models shrink the gap in points but widen it in proportion.**
+
+| Model | Inner circle | Other groups | Ratio (95% CI) | Gap, pp |
+|---|---|---|---|---|
+| tiny | 9.8% | 20.7% | 2.11 (1.91–2.34) | 15.7 |
+| base | 6.4% | 15.0% | 2.36 (2.09–2.65) | 10.9 |
+| small | 3.9% | 9.8% | 2.51 (2.18–2.93) | 7.4 |
+| medium | 2.5% | 7.0% | 2.84 (2.38–3.38) | 5.9 |
+| large-v3 | 2.0% | 5.6% | 2.74 (2.29–3.35) | 4.9 |
+| turbo | 2.2% | 6.7% | 3.06 (2.58–3.69) | 6.0 |
+| wav2vec2 | 6.1% | 15.1% | 2.46 (2.17–2.77) | 11.9 |
+
+From tiny to large-v3 the inner circle's WER falls 79% and the other groups'
+falls 73%. Ratio change: +0.63 (95% CI +0.22 to +1.21).
+
+**turbo** — the pruned, speed-optimised large-v3 — has the widest ratio of any
+model (3.06): the accuracy traded for speed came mostly from the groups already
+worst served. **wav2vec 2.0**, a different architecture trained on audiobooks,
+shows the same pattern, so this isn't Whisper-specific.
+
+**Robustness.** Removing the 82 clips where any model scored WER ≥ 100% (mostly
+Whisper hallucinations) lowers the ratios but preserves the trend: 1.95 (tiny)
+→ 2.47 (large-v3).
+
+**Caveat.** The ratio has a small denominator at large sizes (2.0% inner-circle
+WER on large-v3), so it is sensitive to small absolute shifts — reflected in the
+wide, right-skewed CI on the ratio change. The absolute-gap result is the more
+robust half of the finding.
+
+📄 [Full report (PDF)](Accent%20Bias%20in%20Speech%20Recognition_%20Project%20Report%20(1).pdf)
+· [All tables and figures](results/PHASE4_SUMMARY.md)
 
 ## Repo layout
 
